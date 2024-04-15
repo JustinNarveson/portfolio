@@ -1,0 +1,57 @@
+header{
+    background-color:#fff;
+}
+header>img{
+    max-width: 30%;
+}
+header a{
+    color: #00311e;
+}
+header a:hover{
+    color: #99ada5;
+}
+main{
+    background-color:#00311e;
+    display: grid;
+    grid-template-columns: auto;
+    gap: 2.5rem;
+}
+p{
+    color: #fff;
+}
+h2{
+    color: #fff;
+}
+img{
+    max-width: 75%;
+}
+#portfolio{
+    background-color: #99ada5;
+    z-index: 1;
+    border-color: #00311e;
+    border-width: 1.25rem;
+    border-style: solid;
+}
+#about{
+    background-color: #99ada5;
+    z-index: 1;
+    border-color: #00311e;
+    border-width: 1.25rem;
+    border-style: solid;
+}
+#contact{
+    background-color: #99ada5;
+    z-index: 1;
+    border-color: #00311e;
+    border-width: 1.25rem;
+    border-style: solid;
+}
+#photos{
+    background-color: #99ada5;
+    z-index: 1;
+    border-color: #00311e;
+    border-width: 1.25rem;
+    border-style: solid;
+}
+
+
